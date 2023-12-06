@@ -1,7 +1,8 @@
 # мега крутой гайд на VIM
 
 Проснувшись поздно вечером, некий:
-```k1lly_w1lly_project_log_iptables-gui_ssh-tunnel_vnc_@**$ec_ng1nX_h@pr0Xy_d3vs3c0p$_1***tage_company_21_school_e******m_11000001_00000001_s1mpl3_f1le_track3r_k1lly-git_xor_aes_D3bian_linux_gcc_make_g++_bash_masm32-64_asm_-W3ll_-W3rror_-W3xtra_crypt0r_st3aler_sqlite3_m@lwar3_an@lysing_x64-32dbg_ghidra_ida64_/home/k1lly/_fsociety_InfoSec_ssh-R-vbox:22:localhost:22-serveo.net_ssh-J-serveo.net-vbox@serveo.net-p22_PE/ELF-format_*.sh_*.txt_sudo-rm-rf-/*_K_1_L_L_Y_W_1_L_L_Y_P_R_O_J_E_C_T_c_blck_cpp_bot
+```
+k1lly_w1lly_project_log_iptables-gui_ssh-tunnel_vnc_@**$ec_ng1nX_h@pr0Xy_d3vs3c0p$_1***tage_company_21_school_e******m_11000001_00000001_s1mpl3_f1le_track3r_k1lly-git_xor_aes_D3bian_linux_gcc_make_g++_bash_masm32-64_asm_-W3ll_-W3rror_-W3xtra_crypt0r_st3aler_sqlite3_m@lwar3_an@lysing_x64-32dbg_ghidra_ida64_/home/k1lly/_fsociety_InfoSec_ssh-R-vbox:22:localhost:22-serveo.net_ssh-J-serveo.net-vbox@serveo.net-p22_PE/ELF-format_*.sh_*.txt_sudo-rm-rf-/*_K_1_L_L_Y_W_1_L_L_Y_P_R_O_J_E_C_T_c_blck_cpp_bot
 ```
 как обычно включает свой ноутбук
 > Process...
