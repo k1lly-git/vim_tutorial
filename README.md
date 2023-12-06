@@ -22,9 +22,15 @@ ELF-format_*.sh_*.txt_sudo-rm-rf-/*K_1_L_L_Y_W_1_L_L_Y_P_R_O_J_E_C_T_c_blck_cpp_
 ```
 https://www.vim.org/download.php#pc
 ```
-Нажми на ссылку: "PC: MS-DOS and MS-Windows"
-Затем ты увидишь: "For modern MS-Windows systems (starting with XP) you can simply use the executable installer:
+Нажми на ссылку:
+```
+  PC: MS-DOS and MS-Windows
+```
+Затем ты увидишь:
+```
+  For modern MS-Windows systems (starting with XP) you can simply use the executable installer:
     gvim90.exe (ftp)"
+```
 Кликай по ссылке gvim90.exe
 Установи программу (думаю это будет не сложно)
 Удостоверься, что установка прошла успешно, на рабочем столе должна появиться программа gVim 9.0, открой её!
